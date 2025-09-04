@@ -1,2 +1,7 @@
 # Zenchain-testnet-L01
-A repository for experimenting, testing, and contributing to Zenchain Testnet. Includes setup guides, scripts, and useful documentation.
+This is a portal to help users navigate through the Zenchain Testnet.
+
+Sections:
+Faucet Claim
+How to Stake ZEN
+Testnet Missions List
