@@ -1,0 +1,60 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f6fa;
+    margin: 0;
+    padding: 0;
+    color: #222;
+}
+header {
+    background-color: #4c6ef5;
+    color: white;
+    padding: 30px 20px;
+    text-align: center;
+}
+section {
+    margin: 30px auto;
+    max-width: 800px;
+    padding: 0 20px;
+}
+h2 {
+    color: #4c6ef5;
+}
+.btn {
+    display: inline-block;
+    background-color: #4c6ef5;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+.btn:hover {
+    background-color: #3b5bdb;
+}
+.mission-list {
+    list-style: none;
+    padding: 0;
+}
+.mission-list li {
+    background: #dee2ff;
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+.guide {
+    background: #fff3bf;
+    padding: 15px;
+    border-radius: 8px;
+}
+.guide li {
+    margin-bottom: 10px;
+}
+footer {
+    background: #e9ecef;
+    padding: 15px;
+    text-align: center;
+    margin-top: 40px;
+}
+a {
+    color: #4c6ef5;
+}
